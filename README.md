@@ -1,4 +1,4 @@
-# Project-1
+# Practice-1
 My first project
 
 live preview
