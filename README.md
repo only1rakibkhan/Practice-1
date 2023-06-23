@@ -2,4 +2,4 @@
 My first project
 
 live preview
-https://only1rakibkhan.github.io/Project-1/
+https://only1rakibkhan.github.io/Practice-1/
